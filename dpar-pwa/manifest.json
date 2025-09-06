@@ -1,10 +1,10 @@
 {
   "name": "DPAR Submission",
   "short_name": "DPAR",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#f4f7fb",
-  "theme_color": "#007bff",
+  "background_color": "#ffffff",
+  "theme_color": "#1b4f72",
   "icons": [
     {
       "src": "icon-192.png",
